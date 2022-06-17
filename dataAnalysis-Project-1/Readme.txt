@@ -5,6 +5,8 @@ The rest of the work is completely my work and my own strategies from scratch wi
 The initial datasets were collected from excel files in the internet, I had to create one single dataset which had a side 
 of 6 GB and which of course I cannot add on GitHub because of memory restrictions.
 
+The tools used were: R, Excel, SQLite.
+
 The contents of the file are as follows:
 
 1. Start with rmd file.
