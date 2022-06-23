@@ -2,7 +2,7 @@ This project was part of Google Data Analyitcs Professional Certificate.
 The theme and the questions was proposed.
 The rest of the work is completely my work and my own strategies from scratch without further indications.
 
-The initial datasets were collected from excel files in the internet, I had to create one single dataset which had a side 
+The initial datasets were collected from excel files in the internet, I had to create one single dataset which had a size 
 of 6 GB and which of course I cannot add on GitHub because of memory restrictions.
 
 The tools used were: R, Excel, SQLite.
